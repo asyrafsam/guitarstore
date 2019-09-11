@@ -13,7 +13,7 @@
 		</table>
 		</div>
 		<br>
-		<h3>Guitar Storesssssssss</h3>
+		<h3>Guitar Stores</h3>
 
 		<button class="btn btn-success" onclick="add_guitar()"><i class="glyphicon glyphicon-plus"></i>Add Guitar</button>
 		<br>
