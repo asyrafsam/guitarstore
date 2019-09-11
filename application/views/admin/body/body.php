@@ -18,7 +18,6 @@
 		<button class="btn btn-success" onclick="add_guitar()"><i class="glyphicon glyphicon-plus"></i>Add Guitar</button>
 		<br>
 		<br>
-		<p>Testttttttttttttttt</p>
 		<table id="table_id" class="table table-stripped table-bordered">
 			<thead>
  			<!-- setiap table kene ada satu <tr> per <thead> untuk taknak bagi error pada js dataTables -->
